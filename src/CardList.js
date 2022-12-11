@@ -1,9 +1,7 @@
 import React from "react";
 import Card from "./Card";
-import { robots } from "./robots";
-// import SearchBox from "./SearchBox";
 
-const CardList = () => {
+const CardList = ({robots}) => {
   const CardComponent = robots.map((user, i) => {
     return (
       <Card 
