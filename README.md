@@ -1,3 +1,9 @@
+# Welcome to RoboFriends
+
+This is a practice project used to better my React skills.
+If you would like to see the deployed app click this link:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
